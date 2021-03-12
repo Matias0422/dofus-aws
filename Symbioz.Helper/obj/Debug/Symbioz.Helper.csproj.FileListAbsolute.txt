@@ -1,0 +1,37 @@
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Symbioz\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\SymbiozRepo\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\Skinz\Desktop\Dofus\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\Skinz\Desktop\Dofus\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\Skinz\Desktop\Dofus\SymbiozRepo\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\Dofus\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\Skinz\Desktop\Dofus\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
+C:\Users\Matspyder\Desktop\Symbioz-master\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\Matspyder\Desktop\Symbioz-master\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\Matspyder\Desktop\Symbioz-master\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\Matspyder\Desktop\Symbioz-master\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
+C:\Users\Matspyder\Desktop\Symbioz-master\Symbioz\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\Skinz\Desktop\SymbiozRepo\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\Skinz\Desktop\SymbiozRepo\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\Skinz\Desktop\SymbiozRepo\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.dll
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\Shader.Helper.pdb
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\mscorlib.dll
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\normidna.nlp
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\normnfc.nlp
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\normnfd.nlp
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\normnfkc.nlp
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\bin\Debug\normnfkd.nlp
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\obj\Debug\Symbioz.Helper.csprojResolveAssemblyReference.cache
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.dll
+C:\Users\bruno\dofus\Symbioz\Symbioz.Helper\obj\Debug\Shader.Helper.pdb
